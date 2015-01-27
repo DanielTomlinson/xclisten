@@ -17,7 +17,7 @@ class XCListen
   end
 
   IOS_DEVICES = {
-    'iphone6plus' => 'iPhone 6 Plus'
+    'iphone6plus' => 'iPhone 6 Plus',
     'iphone6' => 'iPhone 6',
     'iphone5s' => 'iPhone 5s',
     'iphone5' => 'iPhone 5',
